@@ -23,7 +23,7 @@ Plugin Features
 * Works on every modern browser.
 * Gallery controll
 
-Live Preview: http://www.mhost.5gbfree.com/demo
+
 
 == Installation ==
 <pre>
